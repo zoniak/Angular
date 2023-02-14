@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    color: rgb(210, 19, 137);
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    overflow: auto;
+    height: 100%;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
